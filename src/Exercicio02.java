@@ -1,8 +1,8 @@
 import java.util.Scanner;
 
-public class Exercico02 {
+public class Exercicio02 {
     public static void main(String[] args) {
-        Exercico02 app = new Exercico02();
+        Exercicio02 app = new Exercicio02();
         app.start();
     }
 
